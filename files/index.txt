@@ -1,0 +1,11 @@
+ac20c4de8ec18c28a41caf2323e5d16b  diags-all-8.h5
+6dfcdf2e5acbda6e1d2315eeebe787d3  diags-test-8.h5
+7a94a84b12b0188d9f6d69d66320583c  diags-train-8.h5
+ec7eaf899eb4bc7d3302705d17e63d3a  mapped_data1.h5
+f4d514d720c2fe143115ea6d2e7b3e9c  metrics-test.h5
+3886c744faaad7c399917d19d3f032d1  metrics-train-all.h5
+c624eaf66b30974dbe8a6b01bfdc02bc  metrics-train.h5
+82714ebfcf7072898c0f75aad4a5e939  test.h5
+407516f431c5ffcbdfc4e709ac168c57  train.h5
+89132e43fddb28f45debb6da338904cd  Metadata_Test.csv
+d6a6111efd9a3dedae1516abb04a16b9  Train_metadata_fixed.csv
