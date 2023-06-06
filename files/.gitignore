@@ -1,8 +1,16 @@
+diags-all-14.h5
+diags-all-4.h5
 diags-all-8.h5
 diags-test-8.h5
 diags-train-8.h5
 mapped_data1.h5
+metrics-test-14.h5
+metrics-test-4.h5
+metrics-test-8.h5
 metrics-test.h5
+metrics-train-all-14.h5
+metrics-train-all-4.h5
+metrics-train-all-8.h5
 metrics-train-all.h5
 metrics-train.h5
 test.h5
